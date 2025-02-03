@@ -1,12 +1,13 @@
 ```text
-<<QUO
-... the sheer joy of making things...
-... fashioning complex puzzle-like objects...
-... that are useful to other people.
-... the joy of always learning...
-QUO
-
-      - Frederick P. Brooks, The Mythical Man-Month
+╔═══════════════════════════════════════════════════╗
+║   “... the sheer joy of making things...          ║
+║    ... fashioning complex puzzle-like objects...  ║
+║    ...that are useful to other people.            ║
+║    ... the joy of always learning.”               ║
+║                                                   ║
+║       — Frederick P. Brooks                       ║
+║         The Mythical Man-Month                    ║
+╚═══════════════════════════════════════════════════╝
 ```
 
 # Hi there, I'm Christian 👋
