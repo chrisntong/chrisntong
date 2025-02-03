@@ -42,7 +42,7 @@ A collection of books that shaped my thinking as an engineer:
 - **Clean Code** – Robert C. Martin
 - **Designing Data-Intensive Applications** – Martin Kleppmann
 - **Working Effectively with Legacy Code** – Michael Feathers
-- **AI Engineering** – Chup Nguyen _(Currently Reading)_
+- **AI Engineering** – Chip Huyen _(Currently Reading)_
 
 ## 🎯 What I'm Up To
 - Improving Aklave's v2 rollout 🚀
