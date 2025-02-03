@@ -23,7 +23,7 @@ I also love **building products**, and in my free time, I work on [Aklave](#akla
 - **Others:** RESTful APIs, Object-oriented design, Data structures and algorithms, CI/CD
 
 ## 🚀 Projects
-### **Aklave**
+### **[Aklave](https://aklave.com)**
 A **location-based social app** for Africans in the diaspora, helping people connect, share experiences, and build communities.
 Tech Stack: Dart/Flutter, Ruby on Rails
 
@@ -34,6 +34,10 @@ Tech Stack: Dart/Flutter, Ruby on Rails
 - Local businesses discovery 📍
 
 👉 Check it out: [Aklave](https://aklave.com) _(V2 Coming Soon)_
+
+### **[Policy OCR](https://github.com/finey2000/policy_ocr)**
+An **Optical Character Recognition** app designed to process input files containing OCR digit lines, extract policy numbers, validate them, and export the results to an output file. Built with Ruby.
+
 
 ## 📚 Top Books & Current Read
 A collection of books that shaped my thinking as an engineer:
