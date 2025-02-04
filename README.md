@@ -22,37 +22,56 @@ I also love **building products**, and in my free time, I work on [Aklave](#akla
 - **Technologies:** AWS, Node.js, React.js, Vue.js, Angular.js, Stimulus/Hotwire, Ruby on Rails, Flutter, Laravel
 - **Others:** RESTful APIs, Object-oriented design, Data structures and algorithms, CI/CD
 
+## Professional Experience
+I'm currently the engineering lead at **Aklave Technologies**. A software consulting firm based in Las vegas.
+
+👉 Check out the rest of my professional experience on my [resume](https://chrisntong.com/resume.pdf).
+
 ## 🚀 Projects
 ### **[Aklave](https://aklave.com)**
 A **location-based social app** for Africans in the diaspora, helping people connect, share experiences, and build communities.
-Tech Stack: Dart/Flutter, Ruby on Rails
 
-📌 Features:
-- Posts & media sharing 📸
-- News feed & group chats 💬
-- Dating & events matching 💘
-- Local businesses discovery 📍
+**Tech Stack:** Dart/Flutter, Ruby on Rails
 
-👉 Check it out: [Aklave](https://aklave.com) _(V2 Coming Soon)_
+📌 **Key Features:**
+✔ Posts & media sharing 📸
+✔ News feed & group chats 💬
+✔ Dating & events matching 💘
+✔ Local business discovery 📍
+
+⚡ **V2 Coming Soon!** Stay tuned!
+
+---
 
 ### **[Policy OCR](https://github.com/finey2000/policy_ocr)**
-An **Optical Character Recognition** app designed to process input files containing OCR digit lines, extract policy numbers, validate them, and export the results to an output file. Built with Ruby.
+A **Ruby-powered Optical Character Recognition (OCR) app** that processes input files containing OCR digit lines, extracts policy numbers, validates them, and exports the results.
+
+**Tech Stack:** Ruby
+
+📌 **Key Features:**
+✔ Extracts and validates policy numbers 🔍
+✔ Parses OCR-generated digit lines 📄
+✔ Outputs results in structured format 📤
 
 
 ## 📚 Top Books & Current Read
-A collection of books that shaped my thinking as an engineer:
 
-- **The Pragmatic Programmer** – Andrew Hunt & David Thomas
-- **Clean Code** – Robert C. Martin
-- **Designing Data-Intensive Applications** – Martin Kleppmann
-- **Working Effectively with Legacy Code** – Michael Feathers
-- **AI Engineering** – Chip Huyen _(Currently Reading)_
+A collection of books that have shaped my thinking as an engineer:
+
+📖 **The Pragmatic Programmer** – Andrew Hunt & David Thomas
+📖 **Clean Code** – Robert C. Martin
+📖 **Designing Data-Intensive Applications** – Martin Kleppmann
+📖 **Working Effectively with Legacy Code** – Michael Feathers
+📖 **AI Engineering** – Chip Huyen _(Currently Reading)_
+
 
 ## 🎯 What I'm Up To
-- Improving Aklave's v2 rollout 🚀
-- Exploring AI-powered automation 🤖
-- Running & listening to books in the mornings 🏃‍♂️📖
 
-📫 **Let’s connect!**
-- GitHub: [@finey2000](https://github.com/finey2000)
-- LinkedIn: [linkedin.com/in/cantong](https://www.linkedin.com/in/cantong/)
+🔹 Working on Aklave's V2 🚀
+🔹 Exploring AI-powered automation 🤖
+🔹 Running & listening to books in the mornings 🏃‍♂️🎧
+
+## 📫 Let’s Connect!
+
+- **GitHub:** [@finey2000](https://github.com/finey2000)
+- **LinkedIn:** [linkedin.com/in/cantong](https://www.linkedin.com/in/cantong/)
