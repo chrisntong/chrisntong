@@ -69,7 +69,7 @@ A collection of books that have shaped my thinking as an engineer:
 
 ## 🎯 What I'm Up To
 
-- Working on Aklave's V2 🚀
+- Working on Aklave V2 🚀
 - Exploring AI-powered automation 🤖
 - Running & listening to books in the mornings 🏃‍♂️🎧
 
