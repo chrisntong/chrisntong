@@ -22,7 +22,7 @@ I also love **building products**, and in my free time, I work on [Aklave](#akla
 - **Technologies:** AWS, Node.js, React.js, Vue.js, Angular.js, Stimulus/Hotwire, Ruby on Rails, Flutter, Laravel
 - **Others:** RESTful APIs, Object-oriented design, Data structures and algorithms, CI/CD
 
-## Professional Experience
+## 💼 Professional Experience
 I'm currently the engineering lead at **Aklave Technologies**. A software consulting firm based in Las vegas.
 
 👉 Check out the rest of my professional experience on my [resume](https://chrisntong.com/resume.pdf).
