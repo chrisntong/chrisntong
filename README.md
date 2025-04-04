@@ -42,7 +42,7 @@ A **location-based social app** for Africans in the diaspora, helping people con
 
 ---
 
-### **[Policy OCR](https://github.com/finey2000/policy_ocr)**
+### **[Policy OCR](https://github.com/chrisntong/policy_ocr)**
 A **Ruby-powered Optical Character Recognition (OCR) app** that processes input files containing OCR digit lines, extracts policy numbers, validates them, and exports the results.
 
 **Tech Stack:** Ruby
@@ -73,5 +73,5 @@ A collection of books that have shaped my thinking as an engineer:
 
 ## 📫 Let’s Connect!
 
-- **GitHub:** [@finey2000](https://github.com/finey2000)
+- **GitHub:** [@chrisntong](https://github.com/chrisntong)
 - **LinkedIn:** [linkedin.com/in/cantong](https://www.linkedin.com/in/cantong/)
