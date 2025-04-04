@@ -12,18 +12,16 @@
 
 # Hi there, I'm Christian 👋
 
-I’m a **FullStack Software Engineer** with a passion for crafting scalable, maintainable, and high-performance applications. I enjoy solving complex problems, mentoring engineers, and continuously improving codebases.
-
-I also love **building products**, and in my free time, I work on [Aklave](#aklave), a social app connecting Africans in the diaspora.
+I’m a **FullStack Software Engineer** with a passion for crafting scalable, maintainable, and high-performance applications. I enjoy solving problems, collaborating, and continuously improving codebases.
 
 ## 🔧 Tech Stack
-- **Languages:** Ruby, JavaScript, TypeScript, Dart, HTML/CSS, PHP, SQL, Python
+- **Languages:** Ruby, JavaScript, TypeScript, Dart, HTML/CSS, PHP, SQL, Python, Kotlin
 - **Databases:** PostgreSQL, MySQL, Redis, ElasticSearch, IndexDb
-- **Technologies:** AWS, Node.js, React.js, Vue.js, Angular.js, Stimulus/Hotwire, Ruby on Rails, Flutter, Laravel
+- **Technologies:** AWS, Node.js, React.js, Vue.js, Angular.js, Stimulus/Hotwire, Ruby on Rails, Flutter, Laravel, Kafka, gRPC
 - **Others:** RESTful APIs, Object-oriented design, Data structures and algorithms, CI/CD
 
 ## 💼 Professional Experience
-I'm currently the engineering lead at **Aklave Technologies**. A software consulting firm based in Las vegas.
+I'm currently a software engineer at **[Upstart](https://upstart.com)**. A leading lending platform.
 
 👉 Check out the rest of my professional experience on my [resume](https://chrisntong.com/resume.pdf).
 
