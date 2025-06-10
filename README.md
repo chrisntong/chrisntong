@@ -21,7 +21,7 @@ I’m a **FullStack Software Engineer** with a passion for crafting scalable, ma
 - **Others:** RESTful APIs, Object-oriented design, Data structures and algorithms, CI/CD
 
 ## 💼 Professional Experience
-I'm currently a software engineer at **[Upstart](https://upstart.com)**. A leading lending platform.
+I'm currently a software engineer at **[Upstart](https://upstart.com)**. A leading AI lending platform.
 
 👉 Check out the rest of my professional experience on my [resume](https://chrisntong.com/resume.pdf).
 
